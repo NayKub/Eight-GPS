@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "187641819503",
-    "project_id": "web-app-e3feb",
-    "storage_bucket": "web-app-e3feb.firebasestorage.app"
+    "project_number": "981955885577",
+    "project_id": "eight-gps-project",
+    "storage_bucket": "eight-gps-project.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:187641819503:android:13b673ec6c02bfb6c6389a",
+        "mobilesdk_app_id": "1:981955885577:android:3168b6418184e95dc9d6d8",
         "android_client_info": {
           "package_name": "com.example.web_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDSqHavAEzYQ9FrKznpxYgqBMxQo0_5pls"
+          "current_key": "AIzaSyBFVfae2aLIUk0Y1sFywI4BdBlkhb3yVB8"
         }
       ],
       "services": {
