@@ -47,39 +47,40 @@ class DefaultFirebaseOptions {
     projectId: 'eight-gps-project',
     authDomain: 'eight-gps-project.firebaseapp.com',
     storageBucket: 'eight-gps-project.firebasestorage.app',
+    measurementId: 'G-8YL4RWFYJP',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDummyAndroidApiKey123456789',
-    appId: '1:123456789:android:1234567890abcdef',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyBFVfae2aLIUk0Y1sFywI4BdBlkhb3yVB8',
+    appId: '1:981955885577:android:3168b6418184e95dc9d6d8',
+    messagingSenderId: '981955885577',
     projectId: 'eight-gps-project',
-    storageBucket: 'eight-gps-project.appspot.com',
+    storageBucket: 'eight-gps-project.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDummyiOSApiKey123456789',
-    appId: '1:123456789:ios:1234567890abcdef',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyAXASp2KWmTfkkKybZRxBJStj5jXXKphaM',
+    appId: '1:981955885577:ios:626f7e8fda4c4d96c9d6d8',
+    messagingSenderId: '981955885577',
     projectId: 'eight-gps-project',
-    storageBucket: 'eight-gps-project.appspot.com',
-    iosBundleId: 'com.example.eightGps',
+    storageBucket: 'eight-gps-project.firebasestorage.app',
+    iosBundleId: 'com.example.webApp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDummymacOSApiKey123456789',
-    appId: '1:123456789:macos:1234567890abcdef',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyAXASp2KWmTfkkKybZRxBJStj5jXXKphaM',
+    appId: '1:981955885577:ios:626f7e8fda4c4d96c9d6d8',
+    messagingSenderId: '981955885577',
     projectId: 'eight-gps-project',
-    storageBucket: 'eight-gps-project.appspot.com',
-    iosBundleId: 'com.example.eightGps',
+    storageBucket: 'eight-gps-project.firebasestorage.app',
+    iosBundleId: 'com.example.webApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDummyWindowsApiKey123456789',
-    appId: '1:123456789:windows:1234567890abcdef',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyCHJMTDWkPImmHn3TOMAF6bTCMCmQ1QKng',
+    appId: '1:981955885577:web:e8ffec4649979e53c9d6d8',
+    messagingSenderId: '981955885577',
     projectId: 'eight-gps-project',
-    storageBucket: 'eight-gps-project.appspot.com',
+    authDomain: 'eight-gps-project.firebaseapp.com',
+    storageBucket: 'eight-gps-project.firebasestorage.app',
+    measurementId: 'G-0GZVTGJK8P',
   );
 }
